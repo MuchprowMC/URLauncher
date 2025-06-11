@@ -9,12 +9,6 @@ The launcher supports downloading and launching Minecraft versions, installing m
 - Built-in game versions (releases).
 - Bedrock support is coming soon.
 
-## 📁 Version Structure
-- `releases/versions` — Java release versions.
-- `releases/snapshots` — Snapshots.
-- `releases/beta` — Beta versions.
-- `releases/alpha` — Alpha versions.
-
 ## 🧑‍💻 Based on HMCL
 
 URLauncher is based on the [HMCL project](https://github.com/huanghongxun/HMCL), licensed under the GNU GPL v3.  
